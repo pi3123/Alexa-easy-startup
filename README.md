@@ -1,5 +1,5 @@
 # Alexa-easy-startup
-Starting alexa pi easily without opening 3 terminals and making your raspberry pi informing you the progress.
+These files will start alexa pi easily without making you open 3 terminals and as a bonus this will make your raspberry pi informing you the progress.
 
 Step 1: Clone the repository to your Desktop
           
