@@ -18,3 +18,8 @@ Step 3: Add these 2 lines at the end of your ".bashrc" file.
           
           cd ~/Alexa-easy-startup
           . test_alexa.sh
+          
+         
+Step 4: Reboot your Raspiberry pi and it should start working
+
+          sudo reboot
