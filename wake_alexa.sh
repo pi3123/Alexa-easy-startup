@@ -1,6 +1,6 @@
 #!/bin/bash
 espeak "Starting Companion Service" 2>/dev/null
-cd /home/pi/Desktop/alexa-avs-sample-app/samples sleep 2s
+cd /home/pi/Desktop/alexa-avs-sample-app/samples 
 cd companionService && npm start&
 
 sleep 4s
