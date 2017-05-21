@@ -13,5 +13,5 @@ espeak "Data Recieved with 0 percent loss" 2>/dev/null
 espeak "Starting Alexa Sample app" 2>/dev/null
 sleep 1s
 
-cd ~
+cd ~/Alexa-east-startup
 . wake_alexa.sh
