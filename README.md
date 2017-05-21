@@ -3,7 +3,7 @@ Starting alexa pi easily without opening 3 terminals and making your raspberry p
 
 Step 1: Clone the repository to your Desktop
           
-          git clone https://github.com/pi3123/Alexa-easy-startup.git
+          cd Desktop && git clone https://github.com/pi3123/Alexa-easy-startup.git
 
 
 
