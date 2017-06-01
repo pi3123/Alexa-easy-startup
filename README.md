@@ -16,7 +16,7 @@ Step 2: Install "espeak" on your raspberry pi using this command
 
 Step 3: Add these 2 lines at the end of your ".bashrc" file.
           
-          cd ~/Alexa-easy-startup
+          cd ~/Desktop/Alexa-easy-startup
           . test_alexa.sh
           
          
